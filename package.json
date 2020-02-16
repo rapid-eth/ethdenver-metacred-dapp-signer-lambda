@@ -1,0 +1,14 @@
+{
+  "name": "relay-pool-lambda",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "JoeBernitt",
+  "license": "ISC",
+  "dependencies": {
+    "ethers": "^4.0.44"
+  }
+}
